@@ -13,3 +13,6 @@
 
  
 # Задание 3![zadanie-po-zabbix-Настройка-узлов-сети](https://user-images.githubusercontent.com/118626944/208752678-0f60e16e-1a44-414b-a28e-3570e8875e45.png)
+
+
+# Задание 4![zadanie-po-zabbix-Панель](https://user-images.githubusercontent.com/118626944/208755201-216b5ff9-55f0-4fea-b9fe-4b50e0af601f.png)
