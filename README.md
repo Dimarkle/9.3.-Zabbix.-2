@@ -1,6 +1,7 @@
 # Задание 1
 
 
+![zadanie-po-zabbix-Настройка-элементов-данных](https://user-images.githubusercontent.com/118626944/208749652-4485e2f5-0848-4ed9-ba2d-5806cec204e7.png)
 
 
 # Задание 2
